@@ -1,0 +1,7 @@
+torch
+mss
+pytesseract
+pillow
+pyautogui
+neo4j
+python-dotenv
