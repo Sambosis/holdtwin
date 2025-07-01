@@ -9,7 +9,7 @@ neo4j==5.28.1
 networkx==3.5
 numpy==2.3.0
 packaging==25.0
-pillow==11.2.1
+pillow==11.3.0
 pyautogui==0.9.54
 pygetwindow==0.0.9
 pymsgbox==1.0.9
